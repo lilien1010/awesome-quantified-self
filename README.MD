@@ -85,6 +85,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [HealthSync](https://healthsync.megabyte.sh/apple-health-app-sync) - Sync selected Apple Health data to a private backend API (iOS).
 - [Bloodboy](https://github.com/ashugaev/bloodboy-biomarkers-tracker) - Biomarker analyzer that extracts lab results from PDFs, converts units, and visualizes trends.
 - [LogZero](https://logzero.app) - Private tracker for mood, food, weight, meds, and exercise with a local correlation engine that surfaces relationships between metrics; on-device, no account (iOS).
+- [AI + Vitals](https://aiplusvitals.com/) - Weekly report and morning alerts that compare your wearable's sleep, HRV and resting heart rate with your own 4-week baseline; read-only MCP connector for Claude and ChatGPT (web, Oura Ring; Apple Watch coming soon).
 
 ### Automation
 - [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) - Automation and event triggering app (Android).
